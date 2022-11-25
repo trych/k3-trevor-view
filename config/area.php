@@ -2,7 +2,10 @@
 
 return function () {
     return [
-        'label' => 'Translations',
+        'label' => t([
+          'en' => 'Translations',
+          'de' => 'Übersetzungen'
+        ]),
         'icon'  => 'trevor',
         'menu'  => true,
         'views' => [
