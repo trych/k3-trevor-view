@@ -2,7 +2,7 @@
 
 return function () {
     return [
-        'label' => 'Trevor',
+        'label' => 'Translations',
         'icon'  => 'trevor',
         'menu'  => true,
         'views' => [

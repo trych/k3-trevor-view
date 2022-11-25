@@ -44,7 +44,6 @@
           <div class="no-selection" v-else>
             <div class="text">
               <p>{{$t('trevor.startinfo')}}</p>
-              <p><b>Trevor</b>: {{$t('trevor.payoff')}}</p>
             </div>
           </div>
         </div>
